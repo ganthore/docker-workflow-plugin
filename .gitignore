@@ -1,6 +1,22 @@
 target
 work
+<<<<<<< HEAD
 demo/.cache/
 demo/snapshot-plugins/
 .idea
 *.iml
+=======
+
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea
+out
+
+.classpath
+.project
+.settings
+
+demo/snapshot/plugins/
+>>>>>>> upstream/master
